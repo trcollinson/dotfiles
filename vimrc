@@ -47,3 +47,5 @@ let g:solarized_termcolors=256
 filetype plugin indent on
 syntax on
 colorscheme solarized
+
+let NERDTreeShowHidden=1
